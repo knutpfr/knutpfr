@@ -1,6 +1,6 @@
 <!-- MATRIX ASCII HEADER -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=24&duration=2000&pause=1000&color=4C56FF&width=435&lines=I+am+Knutpfr!;Welcome+to+my+Profile+%F0%9F%91%91;Im+an+Webdeveloper+%F0%9F%92%BB;Lets+build+cool+things!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=24&duration=2000&pause=1000&color=215167&width=435&lines=I+am+Knutpfr!;Welcome+to+my+Profile+%F0%9F%91%91;Im+an+Webdeveloper+%F0%9F%92%BB;Lets+build+cool+things!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
 
