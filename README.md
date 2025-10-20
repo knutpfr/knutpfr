@@ -21,4 +21,4 @@ knutpfr/knutpfr is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/knutpfr"><img src="https://api.daily.dev/devcards/v2/lDuafUxIIQATLoRU7qBDB.png?type=wide&r=ak3" width="652" alt="Knut's Dev Card"/></a>
+<a href="https://app.daily.dev/knutpfr"><img src="https://api.daily.dev/devcards/v2/lDuafUxIIQATLoRU7qBDB.png?type=wide&r=ksz" width="652" alt="Knut's Dev Card"/></a>
